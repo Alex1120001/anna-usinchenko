@@ -1,0 +1,61 @@
+body,html {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: url(https://cutt.ly/MgGx3Zs);
+  height: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#cover {
+  background-image: url(https://cutt.ly/ZgGhKjJ);
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color:#fff;
+}
+.main-menu{
+  position: fixed;
+  background-color: rgba(51, 51, 51, 0.303);
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-menu a{
+  color:#fff;
+  text-decoration: none;
+}
+.main-menu a+a{
+  margin-left: 15px;
+}
+#cossacks-image {
+  background-image: url(https://cutt.ly/XgGv2Lp);
+}
+
+.line {
+  width: 50%;
+  margin: 3em auto;
+  border-top: 1px solid #cccccc;
+}
+
+#main{
+  width: 80%;
+  margin: auto;
+}
+.block-heading{
+  text-align: center;
+}
+img{
+  max-width: 100%;
+}
+#footer{
+  background-color: yellow;
+  padding: 20px 0px;
+  text-align: center;
+  color:rgb(32, 66, 158);
+}
