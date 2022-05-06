@@ -16,6 +16,7 @@ body,html {
   align-items: center;
   text-align: center;
   color:#fff;
+  background-size: cover;
 }
 .main-menu{
   position: fixed;
